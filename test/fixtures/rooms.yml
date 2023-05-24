@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bedNum: 1
+  description: MyString
+  isAvailable: false
+  checkOutDate: 2023-05-24
+
+two:
+  bedNum: 1
+  description: MyString
+  isAvailable: false
+  checkOutDate: 2023-05-24

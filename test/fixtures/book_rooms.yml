@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  checkIn: 2023-05-16
+  checkOut: 2023-05-16
+  description: MyString
+  room: one
+  customer: one
+
+two:
+  checkIn: 2023-05-16
+  checkOut: 2023-05-16
+  description: MyString
+  room: two
+  customer: two
